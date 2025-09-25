@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyayadav12&label=Profile%20views&color=0e75b6&style=flat" alt="priyayadav12" /> </p>
 
-- 🔭 I’m currently working on **Resume Builder - Powered by OpenAI**
+- 🔭 I’m currently working with **Raftlabs**
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **LLM models**
 
 - 💬 Ask me about **React, NodeJs, Php, mysql and more**
 
